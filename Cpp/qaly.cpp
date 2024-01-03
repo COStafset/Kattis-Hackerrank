@@ -15,3 +15,4 @@ int main() {
     cout << life;
     return 0;
 }
+
